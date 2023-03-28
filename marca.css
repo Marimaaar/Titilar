@@ -1,0 +1,70 @@
+@font-face {
+    font-family: Dosis;
+    src: url(./Tipografía/Dosis-Light.ttf);
+}
+@font-face {
+    font-family: Dharma;
+    src: url(./Tipografía/DharmaSlabE-Regular.ttf);
+}
+.menu{
+    font-family: Dosis;
+}
+.menu a:hover {
+    background-color: #f8da48;
+}
+
+.obj{
+    background-color: #e7e7e8; 
+}
+.title-obj{
+    font-size: 50px;
+}
+.objetivos{
+    font-size: 20px;
+    font-family: Dharma;
+}
+li{
+    font-family: Dosis;
+}
+h1{
+    font-family: Dharma;
+    color: #e42823;
+}
+.h4-1{
+    font-family: Dosis;
+    color: #f8da48;
+}
+.h4-2{
+    font-family: Dosis;
+    color: #37a836;
+}
+p{
+    font-family: Dosis;
+}
+.text-int{
+    font-family: Dharma;
+    text-align: center;
+    font-size: 50px;
+}
+.sig-marca{
+    text-align: center;
+    font-size: 50px;
+}
+.card-title{
+    font-family: Dosis;
+}
+.integrantes{
+    background-color: #e7e7e8;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+
+
+footer{
+    height: 60px;
+    background-color: #afafaf;
+}
